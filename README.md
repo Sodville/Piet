@@ -1,5 +1,9 @@
 ## Procedurally Generating Images in the Style of Piet Mondrian
 
+[Original repo by Michael Fogleman](https://github.com/fogleman/Piet).
+
+Repurposed for generating a new Mandrain-esque wallpaper for my desktop each morning. Looks for the environment variable WALLPAPER_FOLDER to determine where to save the generated image.
+
 ### Introduction
 
 Piet Mondrian was a Dutch painter. His paintings with orthogonal lines and rectangular splashes of primary colors on white backgrounds are very recognizable.
